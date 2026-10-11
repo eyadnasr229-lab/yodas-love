@@ -1,0 +1,8 @@
+{
+  "name": "Remix Always Yours - A Love Story \u0026 Memory Keepsake",
+  "description": "An intimate, beautifully crafted romantic memory website celebrating our journey, polaroids, love letters, and shared moments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
